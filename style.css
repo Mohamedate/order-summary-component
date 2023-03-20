@@ -106,9 +106,12 @@ body {
     font-weight: 700;
     cursor: pointer;
 }
-.attribution { 
+footer { 
+    width: 100%;
     position: fixed;
     bottom: 1rem;
+}
+.attribution { 
     width: 100%;
     text-align: center;
     
